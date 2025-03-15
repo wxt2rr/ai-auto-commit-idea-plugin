@@ -6,35 +6,38 @@
     <e n="ChangesView.Refresh">
       <i c="1" l="1742013077298" />
     </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1742028244738" />
+    </e>
     <e n="CheckinProject">
       <i c="1" l="1742010074332" />
     </e>
     <e n="EditorBackSpace">
-      <i c="29" l="1742020864247" />
+      <i c="33" l="1742028265606" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1" l="1742019776885" />
+      <i c="2" l="1742028263043" />
     </e>
     <e n="EditorDown">
       <i c="1" l="1742019776534" />
     </e>
     <e n="EditorEnter">
-      <i c="7" l="1742019794992" />
+      <i c="8" l="1742028261458" />
     </e>
     <e n="EditorPaste">
-      <i c="24" l="1742027016801" />
+      <i c="30" l="1742028302067" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1742019794707" />
     </e>
     <e n="NewClass">
-      <i c="3" l="1742019789269" />
+      <i c="4" l="1742028256416" />
     </e>
     <e n="ReformatCode">
       <i c="1" l="1742019785869" />
     </e>
     <e n="SaveAll">
-      <i c="6" l="1742019806372" />
+      <i c="7" l="1742028267786" />
     </e>
     <e n="ShowProjectStructureSettings">
       <i c="1" l="1742012909893" />
@@ -43,7 +46,7 @@
       <i c="1" l="1742009495618" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="22" l="1742020845609" />
+      <i c="24" l="1742028269352" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="3" l="1742013066802" />

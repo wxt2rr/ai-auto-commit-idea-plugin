@@ -7,19 +7,29 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="JAVA">
-      <summary usageCount="16" lastUsed="1742021400202" />
+      <summary usageCount="17" lastUsed="1742028258648" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/src/Main.java" />
       <option value="$PROJECT_DIR$/src/aaaa.java" />
-      <option value="$PROJECT_DIR$/src/User.java" />
       <option value="$PROJECT_DIR$/src/UserDao.java" />
+      <option value="$PROJECT_DIR$/src/User.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -31,7 +41,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="16" lastUsage="1742021400202" />
+      <summary usageCount="17" lastUsage="1742028258649" />
     </language>
   </component>
   <component name="ProjectView">
@@ -92,8 +102,8 @@
       <unified_weights bottom="0.33037823" left="0.25035715" />
     </layout>
     <recentWindows>
-      <value>Project</value>
       <value>Commit</value>
+      <value>Project</value>
       <value>Version Control</value>
     </recentWindows>
   </component>
@@ -102,16 +112,26 @@
       <screen x="0" y="38" width="1512" height="886" />
     </state>
     <state x="350" y="60" key="CommitChangelistDialog2/0.38.1512.886/1512.25.2560.1415@0.38.1512.886" timestamp="1742010117818" />
-    <state x="265" y="80" key="SettingsEditor" timestamp="1742027018190">
+    <state x="566" y="207" key="RollbackChangesDialog" timestamp="1742028245920">
       <screen x="0" y="38" width="1512" height="886" />
     </state>
-    <state x="265" y="80" key="SettingsEditor/0.38.1512.886/1512.25.2560.1415@0.38.1512.886" timestamp="1742027018190" />
+    <state x="566" y="207" key="RollbackChangesDialog/0.38.1512.886/1512.25.2560.1415@0.38.1512.886" timestamp="1742028245920" />
+    <state x="265" y="80" key="SettingsEditor" timestamp="1742028303633">
+      <screen x="0" y="38" width="1512" height="886" />
+    </state>
+    <state x="265" y="80" key="SettingsEditor/0.38.1512.886/1512.25.2560.1415@0.38.1512.886" timestamp="1742028303633" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/aaaa.java" />
-    <entry file="file://$PROJECT_DIR$/src/User.java" />
     <entry file="file://$PROJECT_DIR$/src/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

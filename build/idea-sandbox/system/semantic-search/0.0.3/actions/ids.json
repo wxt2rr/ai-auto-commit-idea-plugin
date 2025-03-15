@@ -2272,5 +2272,9 @@
   "Qodana.ShowBuildPage",
   "EscUnfollowUserAction",
   "PauseScanningAndIndexing",
-  "Maven.Internal"
+  "Maven.Internal",
+  "ActivateServicesToolWindow",
+  "Perforce.Force.Refresh",
+  "ServiceView.ActivateDefaultRemoteServersServiceViewContributor",
+  "ServiceView.ActivateRunDashboardServiceViewContributor"
 ]
