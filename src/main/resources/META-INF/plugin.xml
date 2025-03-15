@@ -1,0 +1,28 @@
+<idea-plugin>
+    <!-- 插件ID，不可重复，必须唯一 -->
+    <id>com.wangxt.ai-auto-commit</id>
+
+    <!-- 插件名称 -->
+    <name>AiAutoCommit</name>
+
+    <!-- 插件作者 -->
+    <vendor>Email: wang1471520488@gmail.com</vendor>
+    <description>使用AI自动生成Git提交日志</description>
+    <version>1.0</version>
+
+    <!-- 插件依赖 -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.vcs</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <projectConfigurable instance="com.wangxt.CommitMessageConfigurable" displayName="AiAutoCommit"/>
+    </extensions>
+
+    <!-- 定义动作 -->
+    <actions>
+        <action id="com.wangxt.AutoCommitAction" class="com.wangxt.AutoCommitAction" text="生成提交日志"
+                description="自动生成提交日志">
+            <add-to-group group-id="Vcs.Commit.PrimaryCommitActions" anchor="first"/>
+        </action>
+    </actions>
+</idea-plugin>
