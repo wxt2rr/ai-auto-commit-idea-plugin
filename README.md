@@ -8,11 +8,15 @@
 ## ✨ 核心功能
 
 - **智能生成 Commit Message**：自动解析代码差异，生成符合规范的提交日志。
-- **多模型支持**：可选 OpenAI、DeepSeek 、通义千问等主流 AI 服务（未来计划支持更多）。
+- **多模型支持**：可选 OpenAI、DeepSeek 、通义千问等主流 AI 服务（理论上遵循OpenApi的都支持）。
 - **一键操作**：IDE 内直接调用，无需切换工具。
 - **自定义模板**：支持按团队规范调整日志格式。
 
 ---
+
+## ✈️ 模型支持
+* deepseek [[获取 apiKey]](https://platform.deepseek.com/api_keys)  [[获取 baseUrl / Model]](https://api-docs.deepseek.com/zh-cn/)
+* ChatGPT  [[获取 apiKey]](https://platform.openai.com/settings/organization/api-keys)  [[获取 baseUrl / Model]](https://platform.openai.com/docs/api-reference/introduction)
 
 ## 🚀 快速开始（3 步上手）
 
