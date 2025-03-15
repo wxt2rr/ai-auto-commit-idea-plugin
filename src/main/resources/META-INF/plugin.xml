@@ -7,7 +7,7 @@
 
     <!-- 插件作者 -->
     <vendor>Email: wang1471520488@gmail.com</vendor>
-    <description>使用AI自动生成Git提交日志</description>
+    <description>Automatically generate Git commit message using AI</description>
     <version>1.0</version>
 
     <!-- 插件依赖 -->
