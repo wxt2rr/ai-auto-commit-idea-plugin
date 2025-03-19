@@ -8,7 +8,7 @@
     <!-- 插件作者 -->
     <vendor>Email: wang1471520488@gmail.com</vendor>
     <description>Automatically generate Git commit message using AI</description>
-    <version>1.0</version>
+    <version>1.0.2</version>
 
     <!-- 插件依赖 -->
     <depends>com.intellij.modules.platform</depends>
