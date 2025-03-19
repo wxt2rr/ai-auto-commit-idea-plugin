@@ -21,7 +21,10 @@
 ## 🚀 快速开始（3 步上手）
 
 1. **安装插件**
-    - 通过 JetBrains Marketplace 搜索 `AiAutoCommit` 安装。
+    - [点击下载Jar包](https://github.com/wxt2rr/ai-auto-commit-idea-plugin/blob/main/source/ai-auto-commit-1.0.2.jar)
+    - Settings -> Plugins -> Install Plugins from Disk
+    - <img width="982" alt="image" src="https://github.com/user-attachments/assets/99fbf61b-3d42-4382-84bb-b23387431b7b" />
+
 2. **配置 AI 服务**
     - 获取 API Key，填入插件设置页面的 `AI_API_KEY`。
       ![img.png](img.png)
